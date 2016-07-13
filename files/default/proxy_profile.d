@@ -1,0 +1,6 @@
+export http_proxy="http://webproxy.wlb2.nam.nsroot.net:8080"
+export https_proxy="http://webproxy.wlb2.nam.nsroot.net:8080"
+export HTTP_PROXY="http://webproxy.wlb2.nam.nsroot.net:8080"
+export HTTPS_PROXY="http://webproxy.wlb2.nam.nsroot.net:8080"
+export no_proxy="*s3.amazonaws.com, *s3-external-1.amazonaws.com, 169.254.169.254, localhost, 127.0.0.1"
+export NO_PROXY="*s3.amazonaws.com, *s3-external-1.amazonaws.com, 169.254.169.254, localhost, 127.0.0.1"
